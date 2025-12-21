@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>com.zyy.design.pattern.dhsjms</groupId>
-    <artifactId>Demo-JavaFX</artifactId>
+    <artifactId>chapter02-CeLueMoShi</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -32,7 +32,7 @@
             <version>21.0.2</version>
         </dependency>
         <!-- 平台特定依赖（根据系统选择） -->
-      <dependency>
+        <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-graphics</artifactId>
             <version>21.0.2</version>
@@ -49,7 +49,7 @@
                 <version>${javafx.maven.plugin.version}</version>
                 <configuration>
                     <!-- 必须：指定你的JavaFX主类（包含包名） -->
-                    <mainClass>com.zyy.design.pattern.demo.javafx.HelloJavaFX</mainClass>
+                    <mainClass>com.zyy.design.pattern.dhsjms.chapter02.demo02.CashierSystem</mainClass>
                     <!-- 可选：JVM参数（比如设置窗口大小、编码等） -->
                     <options>
                         <option>-Dfile.encoding=UTF-8</option>
