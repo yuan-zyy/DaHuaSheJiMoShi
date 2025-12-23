@@ -3,20 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.zyy.design.pattern</groupId>
+        <artifactId>dahuashejimoshi</artifactId>
+        <version>1.0.0</version>
+    </parent>
 
-    <groupId>com.zyy.design.pattern</groupId>
-    <artifactId>dahuashejimoshi</artifactId>
-    <version>1.0.0</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>Demo-JavaFX</module>
-        <module>chapter02-CeLueMoShi</module>
-        <module>chapter01-JianDanGongChang</module>
-        <module>chapter03-single</module>
-        <module>chapter04-open-closed</module>
-        <module>chapter05-1-dependence</module>
-        <module>chapter05-2-liskov</module>
-    </modules>
+    <groupId>com.zyy.design.pattern.dhsjms</groupId>
+    <artifactId>chapter05-2-liskov</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
