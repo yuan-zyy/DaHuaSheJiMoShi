@@ -17,6 +17,7 @@
         <module>chapter05-1-dependence</module>
         <module>chapter05-2-liskov</module>
         <module>chapter06-decorator</module>
+        <module>chapter07-proxy</module>
     </modules>
 
     <properties>
