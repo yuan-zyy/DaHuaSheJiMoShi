@@ -18,6 +18,7 @@
         <module>chapter05-2-liskov</module>
         <module>chapter06-decorator</module>
         <module>chapter07-proxy</module>
+        <module>chapter08-factory-method</module>
     </modules>
 
     <properties>
