@@ -19,6 +19,8 @@
         <module>chapter06-decorator</module>
         <module>chapter07-proxy</module>
         <module>chapter08-factory-method</module>
+        <module>chapter09-prototype</module>
+        <module>chapter10-template-method</module>
     </modules>
 
     <properties>
