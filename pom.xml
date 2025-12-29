@@ -21,6 +21,7 @@
         <module>chapter08-factory-method</module>
         <module>chapter09-prototype</module>
         <module>chapter10-template-method</module>
+        <module>chapter11-demeter</module>
     </modules>
 
     <properties>
