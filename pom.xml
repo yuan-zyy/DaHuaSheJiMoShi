@@ -22,6 +22,7 @@
         <module>chapter09-prototype</module>
         <module>chapter10-template-method</module>
         <module>chapter11-demeter</module>
+        <module>chapter12-facade</module>
     </modules>
 
     <properties>
