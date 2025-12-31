@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>com.zyy.design.pattern.dhsjms</groupId>
-    <artifactId>chapter01-JianDanGongChang</artifactId>
+    <artifactId>chapter01-simple-factory</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

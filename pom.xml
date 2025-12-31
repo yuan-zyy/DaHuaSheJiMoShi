@@ -11,7 +11,7 @@
     <modules>
         <module>Demo-JavaFX</module>
         <module>chapter02-CeLueMoShi</module>
-        <module>chapter01-JianDanGongChang</module>
+        <module>chapter01-simple-factory</module>
         <module>chapter03-single</module>
         <module>chapter04-open-closed</module>
         <module>chapter05-1-dependence</module>
