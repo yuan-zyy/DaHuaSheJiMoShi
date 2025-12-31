@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>com.zyy.design.pattern.dhsjms</groupId>
-    <artifactId>chapter02-CeLueMoShi</artifactId>
+    <artifactId>chapter02-strategy</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
