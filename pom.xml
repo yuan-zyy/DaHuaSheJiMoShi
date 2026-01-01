@@ -31,6 +31,7 @@
         <module>chapter16-state</module>
         <module>chapter17-adapter</module>
         <module>chapter18-memento</module>
+        <module>chapter19-composite</module>
     </modules>
 
     <properties>
