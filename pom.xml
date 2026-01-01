@@ -30,6 +30,7 @@
         <module>chapter15-abstract-factory</module>
         <module>chapter16-state</module>
         <module>chapter17-adapter</module>
+        <module>chapter18-memento</module>
     </modules>
 
     <properties>
