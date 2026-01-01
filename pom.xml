@@ -28,6 +28,7 @@
         <module>Demo-Netty</module>
         <module>demo-future</module>
         <module>chapter15-abstract-factory</module>
+        <module>chapter16-state</module>
     </modules>
 
     <properties>
