@@ -27,6 +27,7 @@
         <module>chapter14-observer</module>
         <module>Demo-Netty</module>
         <module>demo-future</module>
+        <module>chapter15-abstract-factory</module>
     </modules>
 
     <properties>
