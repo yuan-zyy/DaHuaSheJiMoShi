@@ -25,6 +25,8 @@
         <module>chapter12-facade</module>
         <module>chapter13-builder</module>
         <module>chapter14-observer</module>
+        <module>Demo-Netty</module>
+        <module>demo-future</module>
     </modules>
 
     <properties>
