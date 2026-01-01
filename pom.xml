@@ -24,6 +24,7 @@
         <module>chapter11-demeter</module>
         <module>chapter12-facade</module>
         <module>chapter13-builder</module>
+        <module>chapter14-observer</module>
     </modules>
 
     <properties>
