@@ -32,6 +32,7 @@
         <module>chapter17-adapter</module>
         <module>chapter18-memento</module>
         <module>chapter19-composite</module>
+        <module>chapter20-iterator</module>
     </modules>
 
     <properties>
