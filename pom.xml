@@ -36,6 +36,7 @@
         <module>chapter21-singleton</module>
         <module>chapter22-1-composite-aggretate</module>
         <module>chapter22-2-bridge</module>
+        <module>chapter23-command</module>
     </modules>
 
     <properties>
