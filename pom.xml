@@ -33,6 +33,7 @@
         <module>chapter18-memento</module>
         <module>chapter19-composite</module>
         <module>chapter20-iterator</module>
+        <module>chapter21-singleton</module>
     </modules>
 
     <properties>
