@@ -35,6 +35,7 @@
         <module>chapter20-iterator</module>
         <module>chapter21-singleton</module>
         <module>chapter22-1-composite-aggretate</module>
+        <module>chapter22-2-bridge</module>
     </modules>
 
     <properties>
