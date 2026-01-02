@@ -34,6 +34,7 @@
         <module>chapter19-composite</module>
         <module>chapter20-iterator</module>
         <module>chapter21-singleton</module>
+        <module>chapter22-1-composite-aggretate</module>
     </modules>
 
     <properties>
