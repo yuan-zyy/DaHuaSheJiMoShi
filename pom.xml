@@ -37,6 +37,7 @@
         <module>chapter22-1-composite-aggretate</module>
         <module>chapter22-2-bridge</module>
         <module>chapter23-command</module>
+        <module>chapter24-responsibility-chain</module>
     </modules>
 
     <properties>
