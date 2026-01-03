@@ -38,6 +38,7 @@
         <module>chapter22-2-bridge</module>
         <module>chapter23-command</module>
         <module>chapter24-responsibility-chain</module>
+        <module>chapter25-mediator</module>
     </modules>
 
     <properties>
